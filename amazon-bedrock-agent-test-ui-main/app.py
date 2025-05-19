@@ -11,7 +11,7 @@ import yaml
 # Get config from environment variables
 agent_id = 'IFF1J6DPCM'        #4 Add Agent ID  
 agent_alias_id = 'EH7VROCXV8'  #5 Add Agent Alias ID
-ui_title =  "Welcome to NFLMS Bid Agent"
+ui_title =  "Welcome to GSA NFLMS Bid Assistant"
 ui_icon = "BEDROCK_AGENT_TEST_UI_ICON"
 
 
